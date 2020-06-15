@@ -8,3 +8,12 @@ Deatiled Description can be found in the Report and Presentation.
 https://github.com/chhari/ImagetoImageTranslation/blob/master/Image-to-image%20translation-1.pdf
 
 https://github.com/chhari/ImagetoImageTranslation/blob/master/Final%20Report.pdf
+
+
+![alt text](https://github.com/chhari/ImagetoImageTranslation/blob/master/download.png)
+
+![alt text](https://github.com/chhari/ImagetoImageTranslation/blob/master/download%20(1).png)
+
+![alt text](https://github.com/chhari/ImagetoImageTranslation/blob/master/download%20(2).png)
+
+
